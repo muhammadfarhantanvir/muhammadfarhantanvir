@@ -5,7 +5,7 @@
   
 ![Profile Views](https://komarev.com/ghpvc/?username=muhammadfarhantanvir&color=blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-farhan-tanvir)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sites.google.com/view/muhammadfarhantanvir)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://farhan-ai-insights.lovable.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvirf07@gmail.com)
 
 </div>
