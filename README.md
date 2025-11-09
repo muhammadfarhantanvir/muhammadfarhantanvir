@@ -1,508 +1,186 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Muhammad Farhan Tanvir | Data Scientist Profile</title>
-    <!-- Load Tailwind CSS --><script src="https://cdn.tailwindcss.com"></script>
-    <!-- Load Inter Font --><link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
-    
-    <style>
-        /* --- CUSTOM ANIMATIONS (Reduced to only the skill card pulse) --- */
-        /* Keyframes for the Skill Card Subtle Pulse Effect (Purple Glow on Light BG) */
-        @keyframes subtle-pulse {
-            0%, 100% {
-                box-shadow: 0 0 5px rgba(126, 34, 206, 0.2), 0 0 0px rgba(126, 34, 206, 0);
-            }
-            50% {
-                box-shadow: 0 0 10px rgba(126, 34, 206, 0.5), 0 0 10px rgba(126, 34, 206, 0.1);
-            }
-        }
+# 👋 Hi, I'm Muhammad Farhan Tanvir
+### 🚀 Data Scientist | NLP, LLMs, AI Agents & RAG Expert 
 
-        /* --- STYLING --- */
-        /* Apply the animation to skill cards */
-        .skill-card {
-            transition: all 0.3s ease;
-            animation: subtle-pulse 4s infinite ease-in-out;
-        }
-        .skill-card:hover {
-            transform: translateY(-5px) scale(1.03);
-            /* Darker shadow on hover for white background */
-            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 0 30px rgba(126, 34, 206, 0.4);
-        }
-        
-        /* Root styling for a clean, light look */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #ffffff; /* White background */
-            color: #333333; /* Dark text */
-        }
-        .section-header {
-            border-left: 4px solid #7e22ce; /* Deep Purple accent */
-            padding-left: 1rem;
-            color: #1a202c; /* Dark header text */
-        }
-        
-        /* Generic class replacements for the light theme */
-        .card-bg {
-            background-color: #f7f7f7;
-            border: 1px solid #e0e0e0;
-        }
-        .card-bg:hover {
-            background-color: #eeeeee;
-        }
-        .view-card {
-            /* Light purple border for focus */
-            border: 2px solid #a855f7;
-            background-color: #f3e8ff; /* Very light purple background */
-        }
-    </style>
-</head>
-<body class="p-4 md:p-8 lg:p-12">
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=muhammadfarhantanvir&color=blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-farhan-tanvir)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://farhan-ai-insights.lovable.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvirf07@gmail.com)
 
-    <div class="max-w-6xl mx-auto">
+</div>
 
-        <!-- HEADER & CONTACT SECTION -->
-        <header class="text-center mb-12 py-8 border-b border-gray-200">
-            <h1 class="text-5xl md:text-6xl font-extrabold text-gray-900 mb-2 tracking-tighter">
-                Muhammad Farhan Tanvir
-            </h1>
-            
-            <!-- Static Text Section -->
-            <h2 class="text-2xl font-light text-gray-700 mb-6">
-                <span class="font-semibold text-gray-900">Data Scientist</span> | Specialized in <span class="font-bold text-purple-600">NLP, AI Agent, RAG and LLMs</span>
-            </h2>
+---
 
-            <!-- Contact Links -->
-            <div class="flex flex-wrap justify-center space-x-4 md:space-x-6">
-                <!-- Links (Using original badge format for dynamic loading) -->
-                <a href="https://www.linkedin.com/in/muhammad-farhan-tanvir" target="_blank" class="transform hover:scale-105 transition duration-300">
-                    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-                </a>
-                <a href="https://farhan-ai-insights.lovable.app" target="_blank" class="transform hover:scale-105 transition duration-300">
-                    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio">
-                </a>
-                <a href="mailto:tanvirf07@gmail.com" class="transform hover:scale-105 transition duration-300">
-                    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-                </a>
-            </div>
-        </header>
+## 🚀 About Me
 
-        <!-- ABOUT ME / PHILOSOPHY -->
-        <section class="mb-12 p-6 card-bg rounded-xl shadow-lg border border-gray-200">
-            <blockquote class="italic text-lg md:text-xl text-center text-purple-600 font-light">
-                "Transforming complex data into actionable insights through cutting-edge AI and machine learning solutions"
-            </blockquote>
-            <p class="mt-4 text-gray-700 text-center">
-                <span class="font-medium text-gray-900">Data Scientist</span> with 3+ years of experience in NLP, LLMs, and AI-driven analytics. Master's student at Universität Potsdam, currently based in Dortmund, Germany. Passionate about building <span class="text-purple-600">interpretable, ethical, and human-centered</span> AI systems.
-            </p>
-        </section>
+> *"Transforming complex data into actionable insights through cutting-edge AI and machine learning solutions"*
 
-        <!-- ANIMATED TECH STACK & EXPERTISE -->
-        <div class="mb-12">
-            <h3 class="section-header text-3xl font-bold mb-8 text-gray-900">
-                Tech Stack & Core Expertise
-            </h3>
+🔬 **Data Scientist** with 3+ years of hands-on experience in **NLP**, **LLMs**, and **AI-driven analytics**  
+🎓 **M.Sc. Data Science** at [Universität Potsdam](https://www.uni-potsdam.de/de/)  
+🌍 Currently based in **Dortmund, Germany**  
+🧠 Passionate about **Data science**, **Machine & deep learning**, and **generative AI**  
 
-            <!-- Grid of Animated Skills -->
-            <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-6">
-                
-                <!-- Programming Languages -->
-                <div class="skill-card bg-white p-4 rounded-xl flex flex-col items-center justify-center text-center border border-purple-300 hover:bg-gray-100 shadow-md">
-                    <span class="text-4xl mb-1 text-yellow-500">🐍</span>
-                    <p class="font-bold text-gray-900">Python</p>
-                    <small class="text-purple-600">ML / Data</small>
-                </div>
-                <div class="skill-card bg-white p-4 rounded-xl flex flex-col items-center justify-center text-center border border-purple-300 hover:bg-gray-100 shadow-md">
-                    <span class="text-4xl mb-1 text-blue-500">®</span>
-                    <p class="font-bold text-gray-900">R</p>
-                    <small class="text-purple-600">Statistical Modeling</small>
-                </div>
+### 🎯 What I Do
+- 📊 Build **end-to-end ML pipelines** from data preprocessing to model deployment
+- 🤖 Develop **intelligent text analysis systems** using state-of-the-art NLP techniques
+- 📈 Create **data-driven business solutions** with statistical modeling and A/B testing
+- 🚀 Deploy **scalable AI applications** on cloud platforms (GCP, AWS, Azure)
 
-                <!-- AI/ML Frameworks -->
-                <div class="skill-card bg-white p-4 rounded-xl flex flex-col items-center justify-center text-center border border-purple-300 hover:bg-gray-100 shadow-md">
-                    <span class="text-4xl mb-1 text-red-600">🧠</span>
-                    <p class="font-bold text-gray-900">TensorFlow/Keras</p>
-                    <small class="text-purple-600">Deep Learning</small>
-                </div>
-                <div class="skill-card bg-white p-4 rounded-xl flex flex-col items-center justify-center text-center border border-purple-300 hover:bg-gray-100 shadow-md">
-                    <span class="text-4xl mb-1 text-orange-600">⚡</span>
-                    <p class="font-bold text-gray-900">PyTorch</p>
-                    <small class="text-purple-600">Research & LLMs</small>
-                </div>
-                <div class="skill-card bg-white p-4 rounded-xl flex flex-col items-center justify-center text-center border border-purple-300 hover:bg-gray-100 shadow-md">
-                    <span class="text-4xl mb-1 text-cyan-500">🧪</span>
-                    <p class="font-bold text-gray-900">Scikit-Learn</p>
-                    <small class="text-purple-600">Classic ML</small>
-                </div>
+---
 
-                <!-- Data/LLM Ecosystem -->
-                <div class="skill-card bg-white p-4 rounded-xl flex flex-col items-center justify-center text-center border border-purple-300 hover:bg-gray-100 shadow-md">
-                    <span class="text-4xl mb-1 text-green-500">💬</span>
-                    <p class="font-bold text-gray-900">LangChain</p>
-                    <small class="text-purple-600">RAG / Agents</small>
-                </div>
-                <div class="skill-card bg-white p-4 rounded-xl flex flex-col items-center justify-center text-center border border-purple-300 hover:bg-gray-100 shadow-md">
-                    <span class="text-4xl mb-1 text-gray-700">💾</span>
-                    <p class="font-bold text-gray-900">SQL/BigQuery</p>
-                    <small class="text-purple-600">Data Warehousing</small>
-                </div>
-                <div class="skill-card bg-white p-4 rounded-xl flex flex-col items-center justify-center text-center border border-purple-300 hover:bg-gray-100 shadow-md">
-                    <span class="text-4xl mb-1 text-amber-600">📈</span>
-                    <p class="font-bold text-gray-900">Pandas/NumPy</p>
-                    <small class="text-purple-600">Data Prep</small>
-                </div>
+## 🛠️ Tech Stack & Expertise
 
-                <!-- Cloud & MLOps -->
-                <div class="skill-card bg-white p-4 rounded-xl flex flex-col items-center justify-center text-center border border-purple-300 hover:bg-gray-100 shadow-md">
-                    <span class="text-4xl mb-1 text-blue-600">☁️</span>
-                    <p class="font-bold text-gray-900">GCP/AWS/Azure</p>
-                    <small class="text-purple-600">Deployment</small>
-                </div>
-                <div class="skill-card bg-white p-4 rounded-xl flex flex-col items-center justify-center text-center border border-purple-300 hover:bg-gray-100 shadow-md">
-                    <span class="text-4xl mb-1 text-sky-500">🐳</span>
-                    <p class="font-bold text-gray-900">Docker</p>
-                    <small class="text-purple-600">Containerization</small>
-                </div>
-                <div class="skill-card bg-white p-4 rounded-xl flex flex-col items-center justify-center text-center border border-purple-300 hover:bg-gray-100 shadow-md">
-                    <span class="text-4xl mb-1 text-teal-500">🎨</span>
-                    <p class="font-bold text-gray-900">Tableau/PowerBI</p>
-                    <small class="text-purple-600">Data Viz</small>
-                </div>
-                <div class="skill-card bg-white p-4 rounded-xl flex flex-col items-center justify-center text-center border border-purple-300 hover:bg-gray-100 shadow-md">
-                    <span class="text-4xl mb-1 text-red-500">⚙️</span>
-                    <p class="font-bold text-gray-900">MLOps</p>
-                    <small class="text-purple-600">Pipelines</small>
-                </div>
-            </div>
-        </div>
+<div align="center">
 
-        <!-- PROFESSIONAL EXPERIENCE -->
-        <div class="mb-12">
-            <h3 class="section-header text-3xl font-bold mb-8 text-gray-900">
-                Professional & Research Experience
-            </h3>
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-            <!-- Current Role -->
-            <div class="p-6 card-bg rounded-xl shadow-lg mb-4 border border-gray-200">
-                <p class="text-lg font-semibold text-gray-900">Data Scientist</p>
-                <p class="text-purple-600">Institut für Marktforschung, Statistik und Prognose (IMSP) | Munich, Germany</p>
-                <p class="text-sm text-gray-500 mb-3">Apr 2023 – Sep 2025</p>
-                <ul class="list-disc list-inside space-y-1 text-gray-700 ml-4">
-                    <li>🚀 Deployed sales forecasting models on Google Cloud Platform using BigQuery, ensuring operational scalability.</li>
-                    <li>📈 Improved data quality by 20% through automated cleaning pipelines, enhancing model reliability.</li>
-                </ul>
-            </div>
+### 🤖 AI/ML Frameworks
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-            <!-- Research Experience -->
-            <div class="p-6 card-bg rounded-xl shadow-lg border border-gray-200">
-                <p class="text-lg font-semibold text-gray-900">Research Assistant</p>
-                <p class="text-purple-600">Technische Universität Dortmund | May 2024 – Oct 2024</p>
-                <ul class="list-disc list-inside space-y-1 text-gray-700 ml-4">
-                    <li>Developed interactive warehouse planning modeling environments for complex logistical analysis.</li>
-                    <li>Supported evidence-based decision-making through comprehensive data analysis.</li>
-                </ul>
-            </div>
-        </div>
+### ☁️ Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-        <!-- FEATURED PROJECTS -->
-        <div class="mb-12">
-            <h3 class="section-header text-3xl font-bold mb-8 text-gray-900">
-                Featured Data Science Projects
-            </h3>
-            
-            <div class="grid md:grid-cols-2 gap-6">
-                <!-- Project 1 -->
-                <div class="p-6 card-bg rounded-xl shadow-lg border-t-4 border-purple-500 hover:bg-gray-100 transition duration-300">
-                    <h4 class="text-xl font-bold text-gray-900 mb-2">🤖 Coding Documentation Generator (LLMs)</h4>
-                    <p class="text-sm text-purple-600 mb-3">Stack: Streamlit, Ollama, LangChain, DeepSeek LLMs</p>
-                    <ul class="list-disc list-inside text-gray-700 ml-4 space-y-1">
-                        <li>Automated code documentation using DeepSeek R1-1.5B/Coder-6.7B for efficiency.</li>
-                        <li>Built robust LangChain pipelines for dynamic docstring generation across repositories.</li>
-                    </ul>
-                </div>
-                <!-- Project 2 -->
-                <div class="p-6 card-bg rounded-xl shadow-lg border-t-4 border-teal-500 hover:bg-gray-100 transition duration-300">
-                    <h4 class="text-xl font-bold text-gray-900 mb-2">🎯 Advanced Uncertainty Quantification</h4>
-                    <p class="text-sm text-purple-600 mb-3">Stack: PyTorch, FastAI, Neptune AI, Plotly</p>
-                    <ul class="list-disc list-inside text-gray-700 ml-4 space-y-1">
-                        <li>Customized ConvNeXt model for CIFAR-10 classification with advanced metrics.</li>
-                        <li>Implemented aleatoric & epistemic uncertainty analysis to enhance model reliability.</li>
-                    </ul>
-                </div>
-                <!-- Project 3 -->
-                <div class="p-6 card-bg rounded-xl shadow-lg border-t-4 border-amber-500 hover:bg-gray-100 transition duration-300">
-                    <h4 class="text-xl font-bold text-gray-900 mb-2">👁️ Real-Time Object Detection (YOLOv6)</h4>
-                    <p class="text-sm text-purple-600 mb-3">Stack: OpenCV, YOLOv6, NumPy</p>
-                    <ul class="list-disc list-inside text-gray-700 ml-4 space-y-1">
-                        <li>Fine-tuned YOLOv6 for custom object detection, optimizing detection performance.</li>
-                        <li>Achieved high accuracy using mAP, precision, recall metrics on real-world data.</li>
-                    </ul>
-                </div>
-                <!-- Project 4 -->
-                <div class="p-6 card-bg rounded-xl shadow-lg border-t-4 border-pink-500 hover:bg-gray-100 transition duration-300">
-                    <h4 class="text-xl font-bold text-gray-900 mb-2">📊 Sales Performance Dashboard</h4>
-                    <p class="text-sm text-purple-600 mb-3">Stack: Power BI, Data Visualization, SQL</p>
-                    <ul class="list-disc list-inside text-gray-700 ml-4 space-y-1">
-                        <li>Created comprehensive sales analytics dashboard visualized key performance indicators.</li>
-                        <li>Enabled data-driven shipping optimization strategies leading to cost reduction.</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
+### 📊 Data & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
-        <!-- GITHUB ANALYTICS & EDUCATION -->
-        <div class="grid md:grid-cols-2 gap-8 mb-12">
-            <!-- Analytics -->
-            <div>
-                <h3 class="section-header text-3xl font-bold mb-8 text-gray-900">
-                    Profile Analytics (Live)
-                </h3>
-                <div class="space-y-4">
-                    
-                    <!-- CUSTOM TOP LANGUAGES CARD (98% Python, 2% R) -->
-                    <div class="p-4 card-bg rounded-xl shadow-lg border border-gray-200">
-                        <h4 class="text-xl font-bold text-gray-900 mb-4 text-center">Top Language Distribution</h4>
-                        <div class="space-y-3">
-                            <!-- Python 98% -->
-                            <div>
-                                <div class="flex justify-between text-sm font-medium text-gray-700">
-                                    <span class="flex items-center">
-                                        <span class="w-3 h-3 bg-yellow-500 rounded-full mr-2"></span> Python
-                                    </span>
-                                    <span>98%</span>
-                                </div>
-                                <div class="w-full bg-gray-300 rounded-full h-2.5">
-                                    <div class="bg-yellow-500 h-2.5 rounded-full" style="width: 98%;"></div>
-                                </div>
-                            </div>
-                            <!-- R 2% -->
-                            <div>
-                                <div class="flex justify-between text-sm font-medium text-gray-700">
-                                    <span class="flex items-center">
-                                        <span class="w-3 h-3 bg-blue-500 rounded-full mr-2"></span> R
-                                    </span>
-                                    <span>2%</span>
-                                </div>
-                                <div class="w-full bg-gray-300 rounded-full h-2.5">
-                                    <div class="bg-blue-500 h-2.5 rounded-full" style="width: 2%;"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+</div>
 
-                    <!-- Profile Views per period (Now Live) -->
-                    <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
-                        <div class="p-4 view-card rounded-xl shadow-lg flex flex-col items-center">
-                            <h4 class="text-md font-semibold text-gray-800 mb-2">Views per Day</h4>
-                            <!-- Placeholder for Live Data -->
-                            <div id="views-day" class="text-3xl font-bold text-purple-800">0</div>
-                            <span class="text-purple-600 text-sm">📈 Live Count</span>
-                        </div>
-                        <div class="p-4 view-card rounded-xl shadow-lg flex flex-col items-center">
-                            <h4 class="text-md font-semibold text-gray-800 mb-2">Views per Week</h4>
-                            <!-- Placeholder for Live Data -->
-                            <div id="views-week" class="text-3xl font-bold text-purple-800">0</div>
-                            <span class="text-purple-600 text-sm">📊 Live Count</span>
-                        </div>
-                        <div class="p-4 view-card rounded-xl shadow-lg flex flex-col items-center">
-                            <h4 class="text-md font-semibold text-gray-800 mb-2">Views per Month</h4>
-                            <!-- Placeholder for Live Data -->
-                            <div id="views-month" class="text-3xl font-bold text-purple-800">0</div>
-                            <span class="text-purple-600 text-sm">🗓️ Live Count</span>
-                        </div>
-                    </div>
-                    <!-- Note for the user about the live data -->
-                    <p class="text-xs text-center text-gray-500 italic mt-2">
-                        *Profile views are tracked and incremented live using the Firestore database. Counts reset automatically based on server time for Day, Week (Monday start), and Month.
-                    </p>
-                </div>
-            </div>
-            
-            <!-- Education -->
-            <div>
-                <h3 class="section-header text-3xl font-bold mb-8 text-gray-900">
-                    Education & Languages
-                </h3>
-                <div class="p-6 card-bg rounded-xl shadow-lg border border-gray-200 mb-6">
-                    <p class="text-lg font-semibold text-gray-900">Master of Science in Data Science</p>
-                    <p class="text-purple-600">Universität Potsdam | 2022 – Present</p>
-                </div>
-                <div class="p-6 card-bg rounded-xl shadow-lg border border-gray-200">
-                    <p class="text-lg font-semibold text-gray-900 mb-3">Language Proficiency</p>
-                    <ul class="text-gray-700 space-y-2">
-                        <li><span class="font-medium text-gray-900">Bengali:</span> Native Speaker</li>
-                        <li><span class="font-medium text-gray-900">English:</span> C1 (Advanced)</li>
-                        <li><span class="font-medium text-gray-900">German:</span> B1 (Intermediate)</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
+---
+
+## 💼 Professional Experience
+
+### 🏢 Current Role
+**Data Scientist** | *Institut für Marktforschung, Statistik und Prognose* | Munich, Germany | *Apr 2023 – Present*
+
+- 🚀 Deployed **sales forecasting models** on Google Cloud Platform using BigQuery
+- 📈 Improved data quality by **20%** through automated cleaning pipelines
+- 🌐 Collaborated with German-speaking teams on cross-cultural data solutions
+
+### 🎓 Research Experience
+**Research Assistant** | *Technische Universität Dortmund* | May 2024 – Oct 2024
+- 🏭 Developed **interactive warehouse planning** modeling environments
+- 🔬 Supported evidence-based decision-making through comprehensive data analysis
+
+**Research Assistant** | *Technische Hochschule Lübeck* | Jan 2023 – Mar 2023
+- 🧠 Achieved **95% classification accuracy** with CNN model for Benzol graph prediction
+- ⚙️ Streamlined research workflows using GitLab version control
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Coding Documentation Generator
+**Stack:** Streamlit, Ollama, LangChain, DeepSeek LLMs
+- Automated code documentation using **DeepSeek R1-1.5B/Coder-6.7B**
+- Built **LangChain pipelines** for dynamic docstring generation
+- Streamlined documentation workflow for development teams
+
+</td>
+<td width="50%">
+
+### 🎯 Advanced Uncertainty Quantification
+**Stack:** PyTorch, FastAI, Neptune AI, Plotly
+- Customized **ConvNeXt model** for CIFAR-10 classification
+- Implemented **aleatoric & epistemic uncertainty** analysis
+- Enhanced model reliability through robust evaluation metrics
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 👁️ Real-Time Object Detection
+**Stack:** OpenCV, YOLOv6, NumPy, Matplotlib
+- Fine-tuned **YOLOv6** for custom object detection
+- Optimized performance for person, vehicle, bike detection
+- Achieved high accuracy using **mAP, precision, recall** metrics
+
+</td>
+<td width="50%">
+
+### 📊 Sales Performance Dashboard
+**Stack:** Power BI, Data Visualization
+- Created comprehensive **sales analytics dashboard**
+- Visualized key metrics across regions and time periods
+- Enabled data-driven **shipping optimization** strategies
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadfarhantanvir&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfarhantanvir&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+🎓 **Master of Science in Data Science** | *Universität Potsdam* | 2020 – Present  
+🎓 **Bachelor of Science in Computer Science** | *United International University, Bangladesh* | 2015 – 2019
+
+---
+
+## 🌍 Languages
+
+| Language | Proficiency |
+|----------|-------------|
+| Bengali | Native Speaker |
+| English | C1 (Advanced) |
+| German | B1 (Intermediate) |
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always excited to collaborate on innovative data science projects and discuss the latest trends in AI/ML. Whether you're interested in **NLP research**, **deep learning applications**, or **data-driven business solutions**, let's connect!
 
 
-        <!-- FOOTER / CALL TO ACTION -->
-        <footer class="text-center py-8 border-t border-gray-200 mt-12">
-            <h4 class="text-2xl font-semibold text-purple-600 mb-3">
-                🤝 Let's Collaborate!
-            </h4>
-            <p class="text-gray-700 mb-6 max-w-2xl mx-auto">
-                I'm always excited to discuss innovative data science projects, from NLP research to scalable deep learning applications. Feel free to connect via the links above!
-            </p>
-            <div class="text-lg font-light text-gray-500">
-                <span class="text-purple-600">*"Turning data into decisions"*</span> 🚀
-            </div>
-        </footer>
+---
 
-    </div>
-    
-    <!-- Firebase Initialization and View Tracking Script -->
-    <script type="module">
-        import { initializeApp } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-app.js";
-        import { getAuth, signInAnonymously, signInWithCustomToken } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-auth.js";
-        // NOTE: Added getDoc to the import list for reliable one-time read
-        import { getFirestore, doc, onSnapshot, setDoc, getDoc, increment, serverTimestamp } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-firestore.js";
-        
-        // Use global variables provided by the environment
-        const appId = typeof __app_id !== 'undefined' ? __app_id : 'default-app-id';
-        const firebaseConfig = JSON.parse(typeof __firebase_config !== 'undefined' ? __firebase_config : '{}');
-        const initialAuthToken = typeof __initial_auth_token !== 'undefined' ? __initial_auth_token : null;
+## 💡 Philosophy
 
-        let db, auth;
-        const VIEW_DOC_PATH = `/artifacts/${appId}/public/data/profile_views/main_tracker`;
+*"Data tells stories, but it takes the right blend of statistical rigor, creative thinking, and domain expertise to unlock insights that drive real-world impact. I believe in building AI systems that are not just intelligent, but also interpretable, ethical, and human-centered."*
 
-        // Utility function to determine if a period needs resetting
-        function needsReset(lastResetTimestamp, unit) {
-            if (!lastResetTimestamp) return true;
+---
 
-            const now = new Date();
-            const lastReset = lastResetTimestamp.toDate ? lastResetTimestamp.toDate() : new Date(lastResetTimestamp);
-            
-            switch (unit) {
-                case 'day':
-                    return now.toDateString() !== lastReset.toDateString();
-                case 'week':
-                    // Monday is day 1, Sunday is day 0. We want Monday as the start of the week.
-                    const startOfWeekNow = new Date(now);
-                    const dayNow = (now.getDay() + 6) % 7; // Monday=0, Sunday=6
-                    startOfWeekNow.setDate(now.getDate() - dayNow);
-                    startOfWeekNow.setHours(0, 0, 0, 0);
+<div align="center">
+  
+### ⭐ If you find my work interesting, don't forget to star some repositories!
 
-                    const startOfWeekLastReset = new Date(lastReset);
-                    const dayLastReset = (lastReset.getDay() + 6) % 7;
-                    startOfWeekLastReset.setDate(lastReset.getDate() - dayLastReset);
-                    startOfWeekLastReset.setHours(0, 0, 0, 0);
+</div>
 
-                    return startOfWeekNow.getTime() !== startOfWeekLastReset.getTime();
-                case 'month':
-                    return now.getMonth() !== lastReset.getMonth() || now.getFullYear() !== lastReset.getFullYear();
-                default:
-                    return false;
-            }
-        }
+---
 
-        async function initFirebase() {
-            try {
-                const app = initializeApp(firebaseConfig);
-                db = getFirestore(app);
-                auth = getAuth(app);
-                
-                // 1. Authenticate
-                if (initialAuthToken) {
-                    await signInWithCustomToken(auth, initialAuthToken);
-                } else {
-                    await signInAnonymously(auth);
-                }
-                
-                // 2. Start tracking and listening after auth
-                trackView();
-                setupRealtimeListener();
+<div align="center">
+  
+*"Turning data into decisions, one algorithm at a time"* 🚀
 
-            } catch (error) {
-                console.error("Firebase initialization or authentication failed:", error);
-            }
-        }
-        
-        // Refactored to use getDoc for a reliable one-time state fetch before updating.
-        async function trackView() {
-            if (!db) return; // Guard clause if DB didn't initialize
+**Thank you for visiting my profile!** 🌟
 
-            const viewRef = doc(db, VIEW_DOC_PATH);
-
-            try {
-                // 1. Get the current document state using getDoc
-                const docSnap = await getDoc(viewRef);
-                const data = docSnap.data() || {};
-                
-                const {
-                    dailyLastReset, 
-                    weeklyLastReset, 
-                    monthlyLastReset
-                } = data;
-                
-                // 2. Prepare update object with increments (defaulting to +1)
-                const updateData = {
-                    dailyViews: increment(1),
-                    weeklyViews: increment(1),
-                    monthlyViews: increment(1),
-                    lastViewed: serverTimestamp() // Always update the last viewed time
-                };
-
-                // 3. Check and apply resets if necessary
-                if (needsReset(dailyLastReset, 'day')) {
-                    updateData.dailyViews = 1; // Reset to 1 (current view)
-                    updateData.dailyLastReset = serverTimestamp();
-                }
-                if (needsReset(weeklyLastReset, 'week')) {
-                    updateData.weeklyViews = 1; // Reset to 1 (current view)
-                    updateData.weeklyLastReset = serverTimestamp();
-                }
-                if (needsReset(monthlyLastReset, 'month')) {
-                    updateData.monthlyViews = 1; // Reset to 1 (current view)
-                    updateData.monthlyLastReset = serverTimestamp();
-                }
-                
-                // 4. Update the document (creates it if it doesn't exist)
-                await setDoc(viewRef, updateData, { merge: true });
-
-            } catch (error) {
-                console.error("Error updating view count:", error);
-            }
-        }
-
-        function setupRealtimeListener() {
-            if (!db) return;
-
-            const viewRef = doc(db, VIEW_DOC_PATH);
-            
-            // This is kept as onSnapshot to provide real-time updates to the UI
-            onSnapshot(viewRef, (docSnap) => {
-                const data = docSnap.data();
-                
-                // Get current values (or 0 if not present)
-                const currentDaily = data?.dailyViews || 0;
-                const currentWeekly = data?.weeklyViews || 0;
-                const currentMonthly = data?.monthlyViews || 0;
-
-                // Update the DOM elements
-                const viewsDayEl = document.getElementById('views-day');
-                const viewsWeekEl = document.getElementById('views-week');
-                const viewsMonthEl = document.getElementById('views-month');
-
-                if (viewsDayEl) viewsDayEl.textContent = currentDaily;
-                if (viewsWeekEl) viewsWeekEl.textContent = currentWeekly;
-                if (viewsMonthEl) viewsMonthEl.textContent = currentMonthly;
-
-            }, (error) => {
-                console.error("Error listening to view changes:", error);
-                // Fallback to displaying error on failure
-                if (document.getElementById('views-day')) document.getElementById('views-day').textContent = 'Error';
-                if (document.getElementById('views-week')) document.getElementById('views-week').textContent = 'Error';
-                if (document.getElementById('views-month')) document.getElementById('views-month').textContent = 'Error';
-            });
-        }
-
-        window.onload = initFirebase;
-    </script>
-
-</body>
-</html>
+</div>
