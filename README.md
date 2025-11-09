@@ -52,7 +52,7 @@
             background-color: #eeeeee;
         }
         .view-card {
-             /* Light purple border for focus */
+            /* Light purple border for focus */
             border: 2px solid #a855f7;
             background-color: #f3e8ff; /* Very light purple background */
         }
@@ -169,7 +169,7 @@
                     <p class="font-bold text-gray-900">Tableau/PowerBI</p>
                     <small class="text-purple-600">Data Viz</small>
                 </div>
-                 <div class="skill-card bg-white p-4 rounded-xl flex flex-col items-center justify-center text-center border border-purple-300 hover:bg-gray-100 shadow-md">
+                <div class="skill-card bg-white p-4 rounded-xl flex flex-col items-center justify-center text-center border border-purple-300 hover:bg-gray-100 shadow-md">
                     <span class="text-4xl mb-1 text-red-500">⚙️</span>
                     <p class="font-bold text-gray-900">MLOps</p>
                     <small class="text-purple-600">Pipelines</small>
@@ -195,7 +195,7 @@
             </div>
 
             <!-- Research Experience -->
-             <div class="p-6 card-bg rounded-xl shadow-lg border border-gray-200">
+            <div class="p-6 card-bg rounded-xl shadow-lg border border-gray-200">
                 <p class="text-lg font-semibold text-gray-900">Research Assistant</p>
                 <p class="text-purple-600">Technische Universität Dortmund | May 2024 – Oct 2024</p>
                 <ul class="list-disc list-inside space-y-1 text-gray-700 ml-4">
@@ -359,7 +359,8 @@
     <script type="module">
         import { initializeApp } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-app.js";
         import { getAuth, signInAnonymously, signInWithCustomToken } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-auth.js";
-        import { getFirestore, doc, onSnapshot, setDoc, increment, serverTimestamp } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-firestore.js";
+        // NOTE: Added getDoc to the import list for reliable one-time read
+        import { getFirestore, doc, onSnapshot, setDoc, getDoc, increment, serverTimestamp } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-firestore.js";
         
         // Use global variables provided by the environment
         const appId = typeof __app_id !== 'undefined' ? __app_id : 'default-app-id';
@@ -421,28 +422,24 @@
             }
         }
         
+        // Refactored to use getDoc for a reliable one-time state fetch before updating.
         async function trackView() {
             if (!db) return; // Guard clause if DB didn't initialize
 
             const viewRef = doc(db, VIEW_DOC_PATH);
 
             try {
-                // Get the current document state
-                const {
-                    dailyViews, dailyLastReset, 
-                    weeklyViews, weeklyLastReset, 
-                    monthlyViews, monthlyLastReset
-                } = await new Promise(resolve => {
-                    const unsubscribe = onSnapshot(viewRef, (docSnap) => {
-                        unsubscribe(); // Unsubscribe immediately after getting the initial data
-                        resolve(docSnap.data() || {});
-                    }, (error) => {
-                        console.error("Error reading initial view data:", error);
-                        resolve({});
-                    });
-                });
+                // 1. Get the current document state using getDoc
+                const docSnap = await getDoc(viewRef);
+                const data = docSnap.data() || {};
                 
-                // Prepare update object with increments
+                const {
+                    dailyLastReset, 
+                    weeklyLastReset, 
+                    monthlyLastReset
+                } = data;
+                
+                // 2. Prepare update object with increments (defaulting to +1)
                 const updateData = {
                     dailyViews: increment(1),
                     weeklyViews: increment(1),
@@ -450,21 +447,21 @@
                     lastViewed: serverTimestamp() // Always update the last viewed time
                 };
 
-                // Check and apply resets if necessary
+                // 3. Check and apply resets if necessary
                 if (needsReset(dailyLastReset, 'day')) {
-                    updateData.dailyViews = 1;
+                    updateData.dailyViews = 1; // Reset to 1 (current view)
                     updateData.dailyLastReset = serverTimestamp();
                 }
                 if (needsReset(weeklyLastReset, 'week')) {
-                    updateData.weeklyViews = 1;
+                    updateData.weeklyViews = 1; // Reset to 1 (current view)
                     updateData.weeklyLastReset = serverTimestamp();
                 }
                 if (needsReset(monthlyLastReset, 'month')) {
-                    updateData.monthlyViews = 1;
+                    updateData.monthlyViews = 1; // Reset to 1 (current view)
                     updateData.monthlyLastReset = serverTimestamp();
                 }
                 
-                // Try to update, or create if it doesn't exist
+                // 4. Update the document (creates it if it doesn't exist)
                 await setDoc(viewRef, updateData, { merge: true });
 
             } catch (error) {
@@ -477,6 +474,7 @@
 
             const viewRef = doc(db, VIEW_DOC_PATH);
             
+            // This is kept as onSnapshot to provide real-time updates to the UI
             onSnapshot(viewRef, (docSnap) => {
                 const data = docSnap.data();
                 
@@ -496,10 +494,10 @@
 
             }, (error) => {
                 console.error("Error listening to view changes:", error);
-                // Fallback to displaying 0 on error
-                document.getElementById('views-day').textContent = 'Error';
-                document.getElementById('views-week').textContent = 'Error';
-                document.getElementById('views-month').textContent = 'Error';
+                // Fallback to displaying error on failure
+                if (document.getElementById('views-day')) document.getElementById('views-day').textContent = 'Error';
+                if (document.getElementById('views-week')) document.getElementById('views-week').textContent = 'Error';
+                if (document.getElementById('views-month')) document.getElementById('views-month').textContent = 'Error';
             });
         }
 
