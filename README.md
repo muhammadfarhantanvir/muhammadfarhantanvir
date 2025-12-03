@@ -64,11 +64,13 @@
 ## 💼 Professional Experience
 
 ### 🏢 Current Role
-**Data Scientist** | *Institut für Marktforschung, Statistik und Prognose* | Munich, Germany | *Apr 2023 – Present*
+**MLOps Engineer** | *BO-I-T - Bochumer Institut für Technologie Gmbh* | Bochum, Germany | *Dec 2025 – Present*
 
-- 🚀 Deployed **sales forecasting models** on Google Cloud Platform using BigQuery
-- 📈 Improved data quality by **20%** through automated cleaning pipelines
-- 🌐 Collaborated with German-speaking teams on cross-cultural data solutions
+-  Designing and maintaining end-to-end MLOps pipelines using Docker, MLflow, CI/CD, and cloud environments.
+-  Deploying, monitoring, and optimizing machine learning models for research and industry projects.
+-  Automating data workflows, validation steps, and retraining processes to ensure reliable, scalable model performance.
+-  Implementing observability tools (metrics, logs, alerts) to detect model drift and production issues early.
+-  Collaborating with data scientists, engineers, and academic partners to integrate production-ready AI solutions.
 
 ### 🎓 Research Experience
 **Research Assistant** | *Technische Universität Dortmund* | May 2024 – Oct 2024
