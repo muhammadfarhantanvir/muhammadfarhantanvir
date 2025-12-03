@@ -143,7 +143,7 @@
 
 ## 🎓 Education & Certifications
 
-🎓 **Master of Science in Data Science** | *Universität Potsdam* | 2020 – Present  
+🎓 **Master of Science in Data Science** | *Universität Potsdam* | 2022 – Present  
 🎓 **Bachelor of Science in Computer Science** | *United International University, Bangladesh* | 2015 – 2019
 
 ---
