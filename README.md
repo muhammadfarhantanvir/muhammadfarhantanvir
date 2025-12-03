@@ -130,17 +130,6 @@
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadfarhantanvir&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfarhantanvir&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## 🎓 Education & Certifications
 
 🎓 **Master of Science in Data Science** | *Universität Potsdam* | 2022 – Present  
