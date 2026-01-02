@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Muhammad Farhan Tanvir
-### 🚀 Data Scientist | NLP, LLMs, AI Agents & RAG Expert 
+### 🚀 MLOps Engineer | Data Scientist, NLP, LLMs, AI Agents & RAG Expert 
 
 <div align="center">
   
@@ -16,7 +16,7 @@
 
 > *"Transforming complex data into actionable insights through cutting-edge AI and machine learning solutions"*
 
-🔬 **Data Scientist** with 3+ years of hands-on experience in **NLP**, **LLMs**, and **AI-driven analytics**  
+🔬 **Data Scientist** with 4+ years of hands-on experience in **NLP**, **LLMs**, and **AI-driven analytics**  
 🎓 **M.Sc. Data Science** at [Universität Potsdam](https://www.uni-potsdam.de/de/)  
 🌍 Currently based in **Dortmund, Germany**  
 🧠 Passionate about **Data science**, **Machine & deep learning**, and **generative AI**  
