@@ -58,7 +58,7 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>AI and LLM</h3>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -68,7 +68,7 @@
       </p>
       <p><code>Prompting</code> <code>RAG</code> <code>Agents</code> <code>Evaluation</code></p>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Data and MLOps</h3>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -79,7 +79,7 @@
       </p>
       <p><code>ETL</code> <code>Experiment Tracking</code> <code>Data Quality</code> <code>Serving</code></p>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>Cloud and DevOps</h3>
       <p>
         <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
@@ -89,6 +89,26 @@
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
       </p>
       <p><code>CI/CD</code> <code>Observability</code> <code>Infrastructure</code> <code>Monitoring</code></p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Web Development</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      </p>
+      <p><code>Frontend</code> <code>Backend</code> <code>Database</code></p>
     </td>
   </tr>
 </table>
