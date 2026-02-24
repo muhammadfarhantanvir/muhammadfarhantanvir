@@ -1,186 +1,308 @@
-# 👋 Hi, I'm Muhammad Farhan Tanvir
-### 🚀 Data Scientist | NLP, LLMs, AI Agents & RAG Expert 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F0C29,50:302B63,100:24243E&text=Muhammad%20Farhan%20Tanvir&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=MLOps%20Engineer%20%7C%20AI%20Specialist%20%7C%20Full%20Stack%20Software%20Engineer%20%7C%20LLM%20%2B%20RAG&descAlignY=58&descSize=18" alt="Header banner" />
+</p>
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=muhammadfarhantanvir&color=blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-farhan-tanvir)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://farhan-ai-insights.lovable.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvirf07@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-farhan-tanvir"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tanvirf07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/muhammadfarhantanvir"><img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://muhammad-farhan-tanvir.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+</p>
 
-</div>
-
----
-
-## 🚀 About Me
-
-> *"Transforming complex data into actionable insights through cutting-edge AI and machine learning solutions"*
-
-🔬 **Data Scientist** with 3+ years of hands-on experience in **NLP**, **LLMs**, and **AI-driven analytics**  
-🎓 **M.Sc. Data Science** at [Universität Potsdam](https://www.uni-potsdam.de/de/)  
-🌍 Currently based in **Dortmund, Germany**  
-🧠 Passionate about **Data science**, **Machine & deep learning**, and **generative AI**  
-
-### 🎯 What I Do
-- 📊 Build **end-to-end ML pipelines** from data preprocessing to model deployment
-- 🤖 Develop **intelligent text analysis systems** using state-of-the-art NLP techniques
-- 📈 Create **data-driven business solutions** with statistical modeling and A/B testing
-- 🚀 Deploy **scalable AI applications** on cloud platforms (GCP, AWS, Azure)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=7A5AF8&center=true&vCenter=true&width=980&lines=Shipping+production-ready+AI+systems;LLM+Applications+%7C+AI+Agents+%7C+RAG+Pipelines;MLOps+Automation+for+reliable+real-world+deployment" alt="Typing animation" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Expertise
-
-<div align="center">
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### 🤖 AI/ML Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-### 📊 Data & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-
-</div>
-
----
-
-## 💼 Professional Experience
-
-### 🏢 Current Role
-**Data Scientist** | *Institut für Marktforschung, Statistik und Prognose* | Munich, Germany | *Apr 2023 – Present*
-
-- 🚀 Deployed **sales forecasting models** on Google Cloud Platform using BigQuery
-- 📈 Improved data quality by **20%** through automated cleaning pipelines
-- 🌐 Collaborated with German-speaking teams on cross-cultural data solutions
-
-### 🎓 Research Experience
-**Research Assistant** | *Technische Universität Dortmund* | May 2024 – Oct 2024
-- 🏭 Developed **interactive warehouse planning** modeling environments
-- 🔬 Supported evidence-based decision-making through comprehensive data analysis
-
-**Research Assistant** | *Technische Hochschule Lübeck* | Jan 2023 – Mar 2023
-- 🧠 Achieved **95% classification accuracy** with CNN model for Benzol graph prediction
-- ⚙️ Streamlined research workflows using GitLab version control
-
----
-
-## 🌟 Featured Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/Based%20In-Essen%2C%20Germany-251A5A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-3B2A89?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-MLOps%20%7C%20LLMs%20%7C%20RAG%20%7C%20Full%20Stack%20Software%20Development-5640C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20To-Onsite%20%7C%20Hybrid%20%7C%20Remote-745CFF?style=for-the-badge" />
+</p>
 
 <table>
-<tr>
-<td width="50%">
+  <tr>
+    <td width="58%" valign="top">
+      <h3>Profile Summary</h3>
+      <p>Production-focused MLOps Engineer and AI Specialist building reliable LLM products and enterprise RAG systems.</p>
+      <ul>
+        <li>End-to-end ownership: data pipelines to model serving and monitoring</li>
+        <li>Strong engineering focus on reliability, reproducibility, and observability</li>
+        <li>Cloud-native deployments with CI/CD and scalable inference architecture</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Specialty-Agentic%20AI-4F46E5?style=flat-square" />
+        <img src="https://img.shields.io/badge/Specialty-Enterprise%20RAG-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/Specialty-MLOps%20Automation-5B21B6?style=flat-square" />
+      </p>
+    </td>
+    <td width="42%" valign="top">
+      <h3>At a Glance</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Production_AI-Delivered-1D4ED8?style=for-the-badge" /><br/>
+        <img src="https://img.shields.io/badge/Cloud_MLOps-Active-2563EB?style=for-the-badge" /><br/>
+        <img src="https://img.shields.io/badge/LLM_RAG-Hands--On-4338CA?style=for-the-badge" />
+      </p>
+      <p><b>Motto:</b> Build practical AI systems that ship and scale.</p>
+    </td>
+  </tr>
+</table>
 
-### 🤖 Coding Documentation Generator
-**Stack:** Streamlit, Ollama, LangChain, DeepSeek LLMs
-- Automated code documentation using **DeepSeek R1-1.5B/Coder-6.7B**
-- Built **LangChain pipelines** for dynamic docstring generation
-- Streamlined documentation workflow for development teams
+## Tech Stack
 
-</td>
-<td width="50%">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,aws,gcp,azure,docker,kubernetes,git,github,gitlab" alt="Tech Icons" />
+</p>
 
-### 🎯 Advanced Uncertainty Quantification
-**Stack:** PyTorch, FastAI, Neptune AI, Plotly
-- Customized **ConvNeXt model** for CIFAR-10 classification
-- Implemented **aleatoric & epistemic uncertainty** analysis
-- Enhanced model reliability through robust evaluation metrics
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>AI and LLM</h3>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hugging%20Face-FFB000?style=for-the-badge&logo=huggingface&logoColor=black" />
+      </p>
+      <p><code>Prompting</code> <code>RAG</code> <code>Agents</code> <code>Evaluation</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Data and MLOps</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+        <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+      </p>
+      <p><code>ETL</code> <code>Experiment Tracking</code> <code>Data Quality</code> <code>Serving</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Cloud and DevOps</h3>
+      <p>
+        <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+      </p>
+      <p><code>CI/CD</code> <code>Observability</code> <code>Infrastructure</code> <code>Monitoring</code></p>
+    </td>
+  </tr>
+</table>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+## Professional Experience
 
-### 👁️ Real-Time Object Detection
-**Stack:** OpenCV, YOLOv6, NumPy, Matplotlib
-- Fine-tuned **YOLOv6** for custom object detection
-- Optimized performance for person, vehicle, bike detection
-- Achieved high accuracy using **mAP, precision, recall** metrics
+<p align="center">
+  <img src="https://img.shields.io/badge/Professional%20Journey-Industry%20%2B%20Research-312E81?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role%20Focus-MLOps%20%7C%20Data%20Science%20%7C%20Teaching-4338CA?style=for-the-badge" />
+</p>
 
-</td>
-<td width="50%">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 MLOps Engineer</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Current-Role-16A34A?style=flat-square" />
+        <img src="https://img.shields.io/badge/Timeline-Dec%202025%20to%20Present-4F46E5?style=flat-square" />
+      </p>
+      <p><b>BO-IT (Bochumer Institut fur Technologie)</b><br/>Bochum, Germany<br/><b>Dec 2025 - Present (Current)</b></p>
+      <ul>
+        <li>Built scalable end-to-end MLOps architecture with MLflow, Docker, CI/CD, and cloud infrastructure</li>
+        <li>Designed automated training, validation, deployment, and monitoring pipelines</li>
+        <li>Delivered model-serving for real-time and batch inference in containerized environments</li>
+      </ul>
+      <p><b>Key Achievements:</b> Data drift observability, CI-optimized data pipelines</p>
+      <p><code>MLOps</code> <code>MLflow</code> <code>Docker</code> <code>CI/CD</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 Data Scientist</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Timeline-Apr%202023%20to%20Sep%202025-4F46E5?style=flat-square" />
+      </p>
+      <p><b>Institut fur Marktforschung, Statistik und Prognose</b><br/>Munich, Germany<br/><b>Apr 2023 - Sep 2025</b></p>
+      <ul>
+        <li>Deployed sales forecasting solution on GCP using BigQuery</li>
+        <li>Designed data cleaning pipelines and improved data quality by 20%</li>
+        <li>Collaborated with German-speaking teams for production analytics delivery</li>
+      </ul>
+      <p><b>Key Achievements:</b> 20% data quality gain, successful GCP rollout</p>
+      <p><code>GCP</code> <code>BigQuery</code> <code>Sales Forecasting</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Junior Data Scientist</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Timeline-Aug%202022%20to%20Nov%202022-4F46E5?style=flat-square" />
+      </p>
+      <p><b>Zummit Germany</b><br/>Munich, Germany<br/><b>Aug 2022 - Nov 2022</b></p>
+      <ul>
+        <li>Developed deep learning model with 96% accuracy</li>
+        <li>Enhanced prediction capabilities and product features through integrated data streams</li>
+      </ul>
+      <p><b>Key Achievements:</b> 96% model accuracy, improved product intelligence</p>
+      <p><code>Deep Learning</code> <code>Prediction</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏭 Research Assistant</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Timeline-May%202024%20to%20Oct%202024-4F46E5?style=flat-square" />
+      </p>
+      <p><b>Technische Universitat Dortmund</b><br/>Dortmund, Germany<br/><b>May 2024 - Oct 2024</b></p>
+      <ul>
+        <li>Developed interactive warehouse planning modeling environment</li>
+        <li>Merged complex algorithms with intuitive interfaces</li>
+        <li>Supported data-driven logistics optimization</li>
+      </ul>
+      <p><b>Key Achievements:</b> Interactive planning environment, better logistics decisions</p>
+      <p><code>Modeling</code> <code>Algorithms</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔬 Research Assistant</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Timeline-Jan%202023%20to%20Mar%202023-4F46E5?style=flat-square" />
+      </p>
+      <p><b>Technische Hochschule Lubeck</b><br/>Lubeck, Germany<br/><b>Jan 2023 - Mar 2023</b></p>
+      <ul>
+        <li>Designed and trained CNN model achieving 95% classification accuracy</li>
+        <li>Contributed to Benzol graph prediction project</li>
+        <li>Used GitLab for team version control and collaboration</li>
+      </ul>
+      <p><b>Key Achievements:</b> 95% accuracy, strong collaboration workflow</p>
+      <p><code>CNN</code> <code>Deep Learning</code> <code>Graph Prediction</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Research Assistant</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Timeline-Sep%202022%20to%20Mar%202023-4F46E5?style=flat-square" />
+      </p>
+      <p><b>Ruhr Universitat Bochum</b><br/>Bochum, Germany<br/><b>Sep 2022 - Mar 2023</b></p>
+      <ul>
+        <li>Led patent analysis with R-based analysis and visualization</li>
+        <li>Produced strategic insights for decision support</li>
+        <li>Maintained reporting quality with Power BI and Excel</li>
+      </ul>
+      <p><b>Key Achievements:</b> Led patent analytics initiative, delivered strategic insights</p>
+      <p><code>R</code> <code>Patent Analysis</code> <code>Power BI</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 ML Course Instructor</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Timeline-May%202024%20to%20Sep%202024-4F46E5?style=flat-square" />
+        <img src="https://img.shields.io/badge/Mode-Remote-0891B2?style=flat-square" />
+      </p>
+      <p><b>Greenbootcamps</b><br/>Hamburg, Germany (Remote)<br/><b>May 2024 - Sep 2024</b></p>
+      <ul>
+        <li>Taught ML and Deep Learning through live interactive sessions</li>
+        <li>Delivered modules on supervised, unsupervised learning, and dimensionality reduction</li>
+        <li>Provided 1:1 mentoring and project feedback</li>
+      </ul>
+      <p><b>Key Achievements:</b> Structured learning modules, high-engagement mentoring</p>
+      <p><code>Teaching</code> <code>Machine Learning</code> <code>Mentoring</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Current Mission</h3>
+      <p>Building reliable, monitorable, and scalable AI systems that bridge research and production.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Now%20Building-Agentic%20AI%20Workflows-4F46E5?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Now%20Building-Enterprise%20RAG-7C3AED?style=for-the-badge" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 📊 Sales Performance Dashboard
-**Stack:** Power BI, Data Visualization
-- Created comprehensive **sales analytics dashboard**
-- Visualized key metrics across regions and time periods
-- Enabled data-driven **shipping optimization** strategies
+## Featured Projects
 
-</td>
-</tr>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI-Powered Code Documentation Generator</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Type-LLM%20Application-5B21B6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Impact-Documentation%20Automation-7C3AED?style=flat-square" />
+      </p>
+      <p>Automated technical documentation workflows and reduced manual effort for engineering teams.</p>
+      <p><code>Python</code> <code>Streamlit</code> <code>LangChain</code> <code>DeepSeek</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Advanced Uncertainty Quantification Framework</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Type-Model%20Reliability-5B21B6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Impact-Better%20Confidence%20Calibration-7C3AED?style=flat-square" />
+      </p>
+      <p>Improved model reliability with calibrated aleatoric and epistemic uncertainty estimation.</p>
+      <p><code>PyTorch</code> <code>FastAI</code> <code>Neptune</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👁️ Real-Time Object Detection System</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Type-Computer%20Vision-5B21B6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Impact-Real--Time%20Edge%20Inference-7C3AED?style=flat-square" />
+      </p>
+      <p>Optimized edge inference pipeline for high-speed, high-accuracy real-time object detection.</p>
+      <p><code>YOLOv6</code> <code>OpenCV</code> <code>NumPy</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Enterprise Sales Analytics Dashboard</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Type-Business%20Intelligence-5B21B6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Impact-KPI--Driven%20Decision%20Support-7C3AED?style=flat-square" />
+      </p>
+      <p>Built KPI-driven analytics for regional and temporal business decisions.</p>
+      <p><code>Power BI</code> <code>SQL</code> <code>Business Intelligence</code></p>
+    </td>
+  </tr>
+</table>
+
+## Education and Languages
+
+<table>
+  <tr>
+    <td width="58%" valign="top">
+
+### Education
+
+<p>
+  <img src="https://img.shields.io/badge/M.Sc.-Data%20Science-5B21B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Universitat%20Potsdam-2024%20to%20Present-6D28D9?style=for-the-badge" />
+</p>
+
+<p><b>Master of Science in Data Science</b><br/>Universitat Potsdam | 2024 - Present</p>
+
+<p>
+  <img src="https://img.shields.io/badge/B.Sc.-Computer%20Science-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UIU%2C%20Bangladesh-2015%20to%202019-2563EB?style=for-the-badge" />
+</p>
+
+<p><b>Bachelor of Science in Computer Science</b><br/>United International University, Bangladesh | 2015 - 2019</p>
+
+  </td>
+  <td width="42%" valign="top">
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Bengali-Native-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/English-C1%20Advanced-0E7490?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/German-B1%20Intermediate-0369A1?style=for-the-badge" />
+</p>
+
+  </td>
+  </tr>
 </table>
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadfarhantanvir&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfarhantanvir&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 🎓 Education & Certifications
-
-🎓 **Master of Science in Data Science** | *Universität Potsdam* | 2020 – Present  
-🎓 **Bachelor of Science in Computer Science** | *United International University, Bangladesh* | 2015 – 2019
-
----
-
-## 🌍 Languages
-
-| Language | Proficiency |
-|----------|-------------|
-| Bengali | Native Speaker |
-| English | C1 (Advanced) |
-| German | B1 (Intermediate) |
-
----
-
-## 🤝 Let's Connect!
-
-I'm always excited to collaborate on innovative data science projects and discuss the latest trends in AI/ML. Whether you're interested in **NLP research**, **deep learning applications**, or **data-driven business solutions**, let's connect!
-
-
----
-
-## 💡 Philosophy
-
-*"Data tells stories, but it takes the right blend of statistical rigor, creative thinking, and domain expertise to unlock insights that drive real-world impact. I believe in building AI systems that are not just intelligent, but also interpretable, ethical, and human-centered."*
-
----
-
-<div align="center">
-  
-### ⭐ If you find my work interesting, don't forget to star some repositories!
-
-</div>
-
----
-
-<div align="center">
-  
-*"Turning data into decisions, one algorithm at a time"* 🚀
-
-**Thank you for visiting my profile!** 🌟
-
-</div>
+<p align="center">
+  <b>Turning data into decisions with scalable, production-grade AI systems.</b><br/>
+  If you are building LLM products, RAG systems, or enterprise MLOps platforms, let's collaborate.
+</p>
