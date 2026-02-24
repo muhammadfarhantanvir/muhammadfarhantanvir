@@ -300,6 +300,26 @@
   </tr>
 </table>
 
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Metrics%20Dashboard-6366F1?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadfarhantanvir&theme=default" alt="GitHub Stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammadfarhantanvir&theme=default&utcOffset=1" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadfarhantanvir&theme=default" alt="Repos Per Language" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadfarhantanvir&theme=default" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadfarhantanvir&theme=default" alt="Profile Details" />
+</p>
+
 ---
 
 <p align="center">
