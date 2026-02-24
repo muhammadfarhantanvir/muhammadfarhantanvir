@@ -299,11 +299,11 @@
 <p><b>Master of Science in Data Science</b><br/>Universitat Potsdam | 2024 - Present</p>
 
 <p>
-  <img src="https://img.shields.io/badge/B.Sc.-Computer%20Science-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/B.Sc.-Computer%20Science%20&%20Engineering-1E3A8A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/UIU%2C%20Bangladesh-2015%20to%202019-2563EB?style=for-the-badge" />
 </p>
 
-<p><b>Bachelor of Science in Computer Science</b><br/>United International University, Bangladesh | 2015 - 2019</p>
+<p><b>Bachelor of Science in Computer Science & Engineering</b><br/>United International University, Bangladesh | 2015 - 2019</p>
 
   </td>
   <td width="42%" valign="top">
